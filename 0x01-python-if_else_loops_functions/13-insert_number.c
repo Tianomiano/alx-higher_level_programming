@@ -1,4 +1,6 @@
 #include "lists.h"
+#include <stddef.h>
+#include <stdlib.h>
 /**
 *insert_node - inserts num into singly linked list
 *@head: pointer
